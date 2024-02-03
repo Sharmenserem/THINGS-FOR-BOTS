@@ -28,10 +28,37 @@ Made With ❤️
 
 ___ 
 
-
 ---
 
 
+
+
+
+----
+
+
+# DATABASE URL FOR KOYEB 
+
+postgres://koyeb-adm:kR0OM6mVATGX@ep-young-hall-a2rojz4x.eu-central-1.pg.koyeb.app/koyebdb
+---
+
+
+
+
+
+Copy And Use 
+
+Thank You For Use 
+
+
+
+---
+Made With 💜
+
+
+---
+
+---
 # PostgreSQL Uri / Url
 
 postgres://naveed_user:jR4C57sJsFIBNO18OxxD6CtqzOvhTXYk@dpg-dn5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/naveed
